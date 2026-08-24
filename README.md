@@ -1,3 +1,5 @@
+<img width="1282" height="881" alt="Screenshot 2026-08-24 210135" src="https://github.com/user-attachments/assets/4822803f-a576-405a-a43d-89a8e9b1e286" />
+
 # Camera Monitor
 
 Cloudflare Workers-based RTSP camera availability monitor for home and small office environments.
