@@ -881,6 +881,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+⭐ Star if useful!
+---
+
 # Русский
 
 # Camera Monitor
@@ -1699,3 +1702,7 @@ npx wrangler secret put ADMIN_PASSWORD
 # Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробные условия лицензии приведены в файле [LICENSE](LICENSE).
+
+---
+
+⭐ Поставьте звезду, если оказалось полезным
